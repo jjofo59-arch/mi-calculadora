@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jjofo59-arch.github.io/mi-calculadora/sitemap.xml
