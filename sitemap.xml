@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://jjofo59-arch.github.io/mi-calculadora/</loc>
-  </url>
-
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/index.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/porcentaje.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/iva.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/imc.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/calorias.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/edad.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/fechas.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/hipoteca.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/prestamo.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/interes-compuesto.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/sueldo-neto.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/regla-de-tres.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/descuento.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/propina.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/combustible.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/margen.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/privacidad.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/cookies.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/aviso-legal.html</loc></url>
+  <url><loc>https://jjofo59-arch.github.io/mi-calculadora/contacto.html</loc></url>
 </urlset>

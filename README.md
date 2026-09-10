@@ -1,19 +1,19 @@
-# Mi Calculadora
+# Mi Calculadora — V2
 
-Web estática de calculadoras online, preparada para publicar en GitHub Pages u otro hosting estático.
+Versión inicial del proyecto de calculadoras online.
 
 ## Incluye
-- Página principal responsive
-- 10 calculadoras iniciales
-- CSS compartido
-- JavaScript compartido
-- Páginas legales provisionales
+- 15 calculadoras.
+- Buscador de herramientas en la portada.
+- Diseño responsive.
+- Meta title/description y canonical en portada.
+- `sitemap.xml` y `robots.txt`.
+- Páginas legales provisionales.
 
-## Próximos pasos
-1. Subir todos los archivos al repositorio de GitHub.
-2. Activar GitHub Pages.
-3. Comprar/conectar dominio propio.
-4. Mejorar SEO de cada calculadora con contenido útil y específico.
-5. Añadir Search Console y analítica.
-6. Revisar privacidad/cookies y consentimiento antes de añadir publicidad.
-7. Solicitar AdSense cuando el sitio tenga contenido suficiente y cumpla sus políticas.
+## Próxima fase
+- Crear contenido SEO original y útil para cada calculadora.
+- Añadir navegación entre herramientas relacionadas.
+- Configurar Google Search Console.
+- Comprar/conectar dominio propio.
+- Revisar textos legales y consentimiento de cookies antes de publicidad.
+- Solicitar AdSense cuando el sitio esté suficientemente desarrollado y cumpla sus políticas.
